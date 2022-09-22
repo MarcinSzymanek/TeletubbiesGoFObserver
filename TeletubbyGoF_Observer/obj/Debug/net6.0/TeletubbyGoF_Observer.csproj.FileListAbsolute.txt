@@ -1,0 +1,15 @@
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\bin\Debug\net6.0\TeletubbyGoF_Observer.exe
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\bin\Debug\net6.0\TeletubbyGoF_Observer.deps.json
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\bin\Debug\net6.0\TeletubbyGoF_Observer.runtimeconfig.json
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\bin\Debug\net6.0\TeletubbyGoF_Observer.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\bin\Debug\net6.0\TeletubbyGoF_Observer.pdb
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.csproj.AssemblyReference.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.AssemblyInfoInputs.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.AssemblyInfo.cs
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.csproj.CoreCompileInputs.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\refint\TeletubbyGoF_Observer.dll
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.pdb
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\TeletubbyGoF_Observer.genruntimeconfig.cache
+C:\AuProjects\Semester 4\SoftwareDesign\Exercises\Teletubbies\TeletubbyGoF_Observer\TeletubbyGoF_Observer\obj\Debug\net6.0\ref\TeletubbyGoF_Observer.dll
